@@ -1,0 +1,5 @@
+Here's a file.
+
+You should be able to get this by installing the software at
+sparkleshare.org and then in the menu click "add hosted project" and
+choose github and /toomim/teste.git.
